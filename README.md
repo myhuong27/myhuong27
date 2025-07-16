@@ -1,6 +1,6 @@
 <!-- Banner hoặc ảnh nền (tùy chọn) -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80" alt="banner" width="100%" />
+  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Xin chào, tôi là <YOUR NAME>!</h1>
