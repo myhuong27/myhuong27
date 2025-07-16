@@ -1,53 +1,40 @@
-<!-- Banner hoặc ảnh nền (tùy chọn) -->
+<h1 align="center">Hi 👋, I'm MyHuonggg</h1>
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80" alt="banner" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I+love+coding!;Let's+connect+and+collaborate!" />
 </p>
 
-<h1 align="center">👋 Xin chào, tôi là <YOUR NAME>!</h1>
+## 👨‍💻 About Me
+- 🔭 I’m passionate about software development and technology.
+- 🌱 I’m currently learning new programming languages and frameworks.
+- 🤝 I’m open to collaborating on interesting projects.
+
+## 🛠️ Skills
+- Programming Languages: Python, JavaScript, C++
+- Web Development: HTML, CSS, ReactJS, NodeJS
+- Tools: Git, VS Code, Linux
+
+## 🚀 Projects
+- [Project 1: Trang web quản lí chế độ ăn uống](https://github.com/MinhKhoi07/CongNghePhanMem-DA22TTD)
+
+## 😄 Một chút vui nhộn
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNueGo4Z2gzeTRkMHh3OGlqM2lyeHAwZDkzam53dm9mM3JmZXZqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ZZ83kDM4H1vNWTaFT/giphy.gif" width="300"/>
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <em>🌱 Đam mê phát triển phần mềm | 💬 Yêu thích chia sẻ và học hỏi | 🚀 Luôn hướng tới sự sáng tạo</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhKhoi07&show_icons=true&theme=radical" alt="MinhKhoi07's github stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhKhoi07&theme=radical" alt="MinhKhoi07's streak stats" />
 </p>
 
----
-
-## 🧑‍💻 Về tôi
-
-- 🔭 Hiện tại tôi đang làm việc tại: **<Công ty/Trường học>**
-- 🌱 Đang học thêm về: **<Công nghệ bạn đang học>**
-- 💬 Hỏi tôi về: **<Chủ đề bạn am hiểu>**
-- ⚡ Fun fact: <Một điều thú vị về bạn>
-
----
-
-## 🚀 Kỹ năng
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-<!-- Thêm hoặc bớt các kỹ năng theo ý bạn -->
-
----
-
-## 📫 Liên hệ với tôi
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-<!-- Thêm các mạng xã hội khác nếu có -->
-
----
-
-## 📊 Thống kê GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myhuong27&show_icons=true&theme=radical" alt="myhuong27's GitHub stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myhuong27&theme=radical" alt="github streak" width="49%" />
-</p>
+## 🌐 Connect with me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/myy.huong.430072?locale=vi_VN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chauthimyhuong15@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=myhuong27" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MinhKhoi07" alt="visitor badge"/>
 </p>
