@@ -1,40 +1,48 @@
-<h1 align="center">Hi 👋, I'm MyHuonggg</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I+love+coding!;Let's+connect+and+collaborate!" />
+  <img src="https://avatars.githubusercontent.com/u/your_user_id?v=4" width="120" style="border-radius:50%"><br>
+  <h1>Hi, I'm <span style="color:#0078FF;">My Huong</span> 👋</h1>
+  <i>Welcome to my GitHub profile!</i>
 </p>
 
-## 👨‍💻 About Me
-- 🔭 I’m passionate about software development and technology.
-- 🌱 I’m currently learning new programming languages and frameworks.
-- 🤝 I’m open to collaborating on interesting projects.
+---
 
-## 🛠️ Skills
-- Programming Languages: Python, JavaScript, C++
-- Web Development: HTML, CSS, ReactJS, NodeJS
-- Tools: Git, VS Code, Linux
+### 🚀 About Me
+- 🌱 I'm passionate about coding and always eager to learn new technologies.
+- 🎯 Currently focusing on web development and open source.
+- ✨ Love building cool projects and collaborating with awesome people.
 
-## 🚀 Projects
-- [Project 1: Trang web quản lí chế độ ăn uống](https://github.com/MinhKhoi07/CongNghePhanMem-DA22TTD)
+---
 
-## 😄 Một chút vui nhộn
+### 🛠️ Skills
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=222)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=222)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNueGo4Z2gzeTRkMHh3OGlqM2lyeHAwZDkzam53dm9mM3JmZXZqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ZZ83kDM4H1vNWTaFT/giphy.gif" width="300"/>
+---
 
-## 📊 GitHub Stats
+### 📌 Featured Projects
+- [Project 1](https://github.com/myhuong27/project1) – Một dự án web thú vị.
+- [Project 2](https://github.com/myhuong27/project2) – Ứng dụng về dữ liệu.
+- [Project 3](https://github.com/myhuong27/project3) – Demo UI đẹp mắt.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhKhoi07&show_icons=true&theme=radical" alt="MinhKhoi07's github stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhKhoi07&theme=radical" alt="MinhKhoi07's streak stats" />
-</p>
+---
 
-## 🌐 Connect with me
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/myy.huong.430072?locale=vi_VN)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chauthimyhuong15@gmail.com)
+### 📫 Contact Me
+- Email: myhuong27@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/myhuong27/)
+- [Facebook](https://facebook.com/myhuong27)
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MinhKhoi07" alt="visitor badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078FF&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Let's+build+something+awesome!;Follow+me+for+updates!">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=myhuong27&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myhuong27&theme=tokyonight" />
 </p>
