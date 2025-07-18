@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078FF&height=180&section=header&text=Hi,%20I'm%20My%20Huong%20👋&fontSize=38&fontAlign=50&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <i>Welcome to my GitHub profile!</i>
+</p>
 <!-- Animated Header Section -->
 
 <p align="center">
@@ -16,14 +24,6 @@
   <img src="https://img.shields.io/badge/AI-enthusiast-ff69b4?style=for-the-badge" alt="AI Badge"/>
   <img src="https://img.shields.io/badge/Open%20Source-Lover-green?style=for-the-badge" alt="Open Source Badge"/>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078FF&height=180&section=header&text=Hi,%20I'm%20My%20Huong%20👋&fontSize=38&fontAlign=50&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <i>Welcome to my GitHub profile!</i>
-</p>
-
 ---
 
 <div align="center">
