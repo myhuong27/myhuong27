@@ -1,3 +1,21 @@
+<!-- Animated Header Section -->
+
+<p align="center">
+  <!-- Typing SVG Effect (edit lines to your style) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F76D6D&width=800&center=true&lines=Welcome+to+My+GitHub!;I'm+My+Huong+%F0%9F%8C%B9;Creative+Developer+%7C+AI+Enthusiast;Let%27s+Build+Something+Awesome+together!+%F0%9F%92%A1" alt="Typing Effect" />
+</p>
+
+<p align="center">
+  <!-- Add an animated GIF for extra effect -->
+  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="180" alt="Coder GIF"/>
+</p>
+
+<p align="center">
+  <!-- Cool badges for style -->
+  <img src="https://img.shields.io/badge/Fullstack-blue?style=for-the-badge" alt="Fullstack Badge"/>
+  <img src="https://img.shields.io/badge/AI-enthusiast-ff69b4?style=for-the-badge" alt="AI Badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-green?style=for-the-badge" alt="Open Source Badge"/>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0078FF&height=180&section=header&text=Hi,%20I'm%20My%20Huong%20👋&fontSize=38&fontAlign=50&fontColor=ffffff" />
 </p>
