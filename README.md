@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your_user_id?v=4" width="120" style="border-radius:50%"><br>
   <h1>Hi, I'm <span style="color:#0078FF;">My Huong</span> 👋</h1>
   <i>Welcome to my GitHub profile!</i>
 </p>
